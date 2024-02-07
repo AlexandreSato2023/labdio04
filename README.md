@@ -1,6 +1,5 @@
-# labdio04
-Bootcamp Microsoft DIO - Análise de Sentimentos - Azure IA 
-﻿
+# Bootcamp Microsoft DIO - Análise de Sentimentos - Azure IA 
+
 ## 🚀 Objetivo
 Este laboratório tem como objetivo utilizar os recursos do Azure de IA para analisar os "sentimentos" de um texto.
 
